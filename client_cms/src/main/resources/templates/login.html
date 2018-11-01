@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>登录页面</title>
+</head>
+
+
+<body style="align-content: center" >
+
+    <table>
+        <caption>登录测试</caption>
+        <tr>
+            <td style="text-align: right; padding-right: 5px">
+                登录名：
+            </td>
+            <td style="text-align: left; padding-left: 5px">
+                <input type="text" name="username" id="username"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: right; padding-right: 5px">
+                密码：
+            </td>
+            <td style="text-align: left; padding-left: 5px">
+                <input type="text" name="password" id="password"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: right; padding-right: 5px" colspan="2">
+                <input type="button" value="登录" onclick="login();" />
+            </td>
+        </tr>
+    </table>
+
+<input type="button" value="testLocalStorage" onclick="testLocalStorage();"/>
+</body>
+<script src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+
+    function login(){
+        var username = $("#username").val();
+        var password = $("#password").val();
+        //var params = "username="+username+"&amp;password="+password;
+        $.ajax({
+            url : '/login',
+            type:'POST',
+            dataType:"json",
+            data : {"username":username,"password":password},
+            success : function(data){
+                console.log("data:"+data);
+                if(data.code == 200){
+                    console.log("data:"+data.token);
+                    var token = data.token;
+                    // web storage的查看 - 在浏览器的开发者面板中的application中查看。
+                    // local storage - 本地存储的数据。 长期有效的。
+                    // session storage - 会话存储的数据。 一次会话有效。
+                    var localStorage = window.localStorage; // 浏览器提供的存储空间。 根据key-value存储数据。
+                    localStorage.token = token;
+                }else{
+                    alert(data.msg);
+                }
+            }
+        });
+    }
+
+    function setHeader(xhr){ // XmlHttpRequest
+        console.log(window.localStorage.token);
+        xhr.setRequestHeader("authtoken",window.localStorage.token);
+    }
+    function setComplete(xhr) {
+        var localStorage = window.localStorage; // 浏览器提供的存储空间。 根据key-value存储数据。
+       console.log(xhr.token);
+        localStorage.token = token;
+        console.log("请求完成 。。。。.")
+    }
+    function testLocalStorage(){
+        $.ajax({
+            'url' : '/testAll',
+            'success' : function(data){
+           /*     if(data.code == 200){
+                    window.localStorage.token = data.token;
+                    alert(data.data);
+                }else{
+                    alert(data.msg);
+                }*/
+           alert(data);
+            },
+            'beforeSend' : setHeader,
+            'complete':setComplete
+        });
+    }
+
+</script>
+</html>
