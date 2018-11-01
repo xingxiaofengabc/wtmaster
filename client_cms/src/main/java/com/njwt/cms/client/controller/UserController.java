@@ -53,10 +53,10 @@ public class UserController {
       return  obj;
     }
     /**
-     * describe: Ê×Ò³
+     * describe:ä¸»é¡µ
      * @param
      * @return
-     * @author ÐÏÏþ·å
+     * @author
      * creat_date: 2018/10/31
      * creat_time: 12:17
      **/
@@ -64,5 +64,18 @@ public class UserController {
     @RequestMapping(value = "/index",method = {RequestMethod.GET})
     public String index(){
        return "/index";
+    }
+    /**
+     * describe: é¦–é¡µ
+     * @param
+     * @return
+     * @author é‚¢æ™“å³°
+     * creat_date: 2018/11/1
+     * creat_time: 14:58
+     **/
+
+    @RequestMapping(value = "/main",method = {RequestMethod.GET})
+    public String main(){
+        return "/main";
     }
 }
