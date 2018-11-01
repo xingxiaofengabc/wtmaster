@@ -1,0 +1,56 @@
+spring:
+  application:
+    name: server-cms
+  http:
+    encoding:
+      charset: UTF-8
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    default-property-inclusion: NON_NULL
+
+  mail:
+    default-encoding: UTF-8
+    host: smtp.163.com
+    port: 25
+    username: baihezhuo@163.com
+    password: baihezhuo17171
+    properties:
+      mail:
+        smtp:
+          auth: true
+          timeout: 30000
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/mytest?characterEncoding=UTF-8&autoReconnect=true&zeroDateTimeBehavior=convertToNull&useUnicode=true
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+server:
+  port: 7001
+  servlet:
+    context-path: /
+
+mybatis:
+    type-aliases-package: com.njwt.cms
+    mapper-locations: classpath:com/njwt/cms/mapping/*.xml
+
+logging:
+    level:
+        tk.mybatis: TRACE
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+
+pagehelper:
+    helperDialect: mysql
+    reasonable: true
+    supportMethodsArguments: true
+    params: count=countSql
+eureka:
+  client:
+    service-url:
+      ##单点配置:
+      defaultZone: http://eureka1:8009/eureka/
+      ##高可用配置
+      #defaultZone: http://eureka1:8001/eureka/,http://eureka2:8002/eureka/

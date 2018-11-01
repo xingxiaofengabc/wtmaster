@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: gateway
+server:
+  port: 7003
+  context-path: /
+eureka:
+  client:
+    service-url:
+      ##单点配置:
+      defaultZone: http://eureka1:8009/eureka/
+zuul:
+  routes:
+    api-cms:
+      path:/server-cms/**
+  host:
+    max-per-route-connections: 500
+    max-total-connections: 5000
+
+filter:
+ ignores: /addUser,/login,/logout,/static,/checktoken,/getUserinfo,/hi,/hello

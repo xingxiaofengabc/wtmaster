@@ -1,0 +1,4 @@
+com\njwt\common\jwt\JWTResponseData.class
+com\njwt\common\jwt\JWTSubject.class
+com\njwt\common\jwt\JWTResult.class
+com\njwt\common\jwt\JWTUtils.class
