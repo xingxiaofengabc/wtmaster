@@ -2,7 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e452f88-6354-4918-bd5a-83e1b6855178" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/.mvn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/.mvn/wrapper" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/common.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/http" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/jwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/jwt/JWTResponseData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/jwt/JWTResult.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/jwt/JWTSubject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/java/com/njwt/common/jwt/JWTUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/main/resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/test" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/test/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/test/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/test/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/src/test/java/com/njwt/common" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/GatewayApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/config/CorsConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/config/FilterConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/feign" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/feign/FeignClientUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/filter" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/filter/CustomAuthFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/filter/PostRequestFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/njwt/gateway" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/njwt/gateway/GatewayApplicationTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/eureka/target/" />
@@ -133,96 +192,6 @@
               <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
-              <item name="mapping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,7 +205,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
@@ -446,7 +415,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541047742912</updated>
-      <workItem from="1541047748155" duration="9406000" />
+      <workItem from="1541047748155" duration="9665000" />
     </task>
     <task id="LOCAL-00001" summary="cms-api">
       <created>1541047941719</created>
@@ -469,11 +438,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541058614348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="api-cms 初始化">
+      <created>1541058878833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541058878833</updated>
+    </task>
+    <task id="LOCAL-00005" summary="common 初始化">
+      <created>1541058969503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541058969503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9406000" />
+    <option name="totallyTimeSpent" value="9665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -525,7 +508,9 @@
     <MESSAGE value="cms-api" />
     <MESSAGE value="提交" />
     <MESSAGE value="cms-client" />
-    <option name="LAST_COMMIT_MESSAGE" value="cms-client" />
+    <MESSAGE value="api-cms 初始化" />
+    <MESSAGE value="common 初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="common 初始化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
