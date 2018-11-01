@@ -1,610 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e452f88-6354-4918-bd5a-83e1b6855178" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/client_cms.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/ClientApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/core/config/FeignConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/core/config/HttpClientConfiguration.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/core/exception/GlobalExceptionHandlerAdvisor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/feign/FeignClientUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/feign/hystrix/UserFeignClientHystrixFallback.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/model/UserModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/animate.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/bootstrap.min14ed.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/demo/webuploader-demo.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/font-awesome.min93e3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/login.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/patterns/header-profile-skin-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/patterns/header-profile-skin-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/patterns/header-profile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/patterns/shattered.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/css/blueimp-gallery.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/error.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/error.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/play-pause.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/play-pause.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/video-play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/blueimp/img/video-play.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/bootstrap-table/bootstrap-table.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/chosen/chosen-sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/chosen/chosen-sprite@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/chosen/chosen.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/clockpicker/clockpicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/codemirror/ambiance.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/codemirror/codemirror.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/colorpicker/css/bootstrap-colorpicker.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/colorpicker/img/bootstrap-colorpicker/alpha-horizontal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/colorpicker/img/bootstrap-colorpicker/alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/colorpicker/img/bootstrap-colorpicker/hue-horizontal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/colorpicker/img/bootstrap-colorpicker/hue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/colorpicker/img/bootstrap-colorpicker/saturation.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/cropper/cropper.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/dataTables/dataTables.bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/datapicker/datepicker3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/dropzone/basic.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/dropzone/dropzone.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/footable/fonts/footable.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/footable/fonts/footable.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/footable/fonts/footable.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/footable/fonts/footable.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/footable/fonts/footabled41d.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/footable/footable.core.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/fullcalendar/fullcalendar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/fullcalendar/fullcalendar.print.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/iCheck/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/iCheck/green.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/iCheck/green@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/images/sort_asc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/images/sort_desc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/images/sprite-skin-flat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/images/spritemap.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/images/spritemap@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/ionRangeSlider/ion.rangeSlider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/ionRangeSlider/ion.rangeSlider.skinFlat.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/jasny/jasny-bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/jqgrid/ui.jqgridffe4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/jsTree/style.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/markdown/bootstrap-markdown.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/morris/morris-0.4.3.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/nouslider/jquery.nouislider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/plyr/plyr.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/plyr/sprite.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/simditor/simditor.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/steps/jquery.steps.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/summernote/summernote-bs3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/summernote/summernote.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/sweetalert/sweetalert.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/switchery/switchery.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/toastr/toastr.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/treeview/bootstrap-treeview.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/plugins/webuploader/webuploader.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/style.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/css/style.min862f.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/fontawesome-webfont93e3.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/fontawesome-webfont93e3.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/fontawesome-webfont93e3.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/fontawesome-webfont93e3.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/fontawesome-webfont93e3.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/fontawesome-webfontd41d.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/fonts/glyphicons-halflings-regulard41d.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/a9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/iconfont-logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/index.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/index_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/loading-upload.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/locked.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/login-background.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/p1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/p2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/p3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/p_big1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/p_big2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/p_big3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/pay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/profile.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/profile_big.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/profile_small.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/progress.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/qr_code.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/success.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/user.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/img/wenku_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/cms/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/cms/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/contabs.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/content.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/bootstrap-table-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/echarts-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/flot-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/form-advanced-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/form-validate-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/layer-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/morris-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/peity-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/rickshaw-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/sparkline-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/treeview-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/demo/webuploader-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/hplus.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/jquery-ui-1.10.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/jquery-ui.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/beautifyhtml/beautifyhtml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/blueimp/jquery.blueimp-gallery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/bootstrap-table/bootstrap-table-mobile.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/bootstrap-table/bootstrap-table.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/chartJs/Chart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/chosen/chosen.jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/clockpicker/clockpicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/codemirror/codemirror.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/codemirror/mode/javascript/javascript.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/colorpicker/bootstrap-colorpicker.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/cropper/cropper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/dataTables/dataTables.bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/dataTables/jquery.dataTables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/datapicker/bootstrap-datepicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/diff_match_patch/diff_match_patch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/dropzone/dropzone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/easypiechart/jquery.easypiechart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/echarts/echarts-all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/blank.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/fancybox_loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/fancybox_loading@2x.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/fancybox_overlay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/fancybox_sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/fancybox_sprite@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/jquery.fancybox.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fancybox/jquery.fancybox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/curvedLines.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/jquery.flot.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/jquery.flot.pie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/jquery.flot.resize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/jquery.flot.spline.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/jquery.flot.symbol.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/flot/jquery.flot.tooltip.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/footable/footable.all.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/fullcalendar/fullcalendar.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/gritter/images/gritter-light.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/gritter/images/gritter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/gritter/images/ie-spacer.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/gritter/jquery.gritter.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/gritter/jquery.gritter.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/iCheck/icheck.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/ionRangeSlider/ion.rangeSlider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jasny/jasny-bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jeditable/jquery.jeditable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jqgrid/i18n/grid.locale-cnffe4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jqgrid/jquery.jqGrid.minffe4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jquery-ui/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jsKnob/jquery.knob.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jsTree/jstree.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/extend/layer.ext.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/layDate官网.url" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/need/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/skins/dahong/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/skins/dahong/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/skins/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/skins/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/skins/molv/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/laydate/skins/molv/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate-v1.1/更新日志.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/need/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/skins/dahong/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/skins/dahong/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/skins/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/skins/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/skins/molv/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/laydate/skins/molv/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/layer.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/layim/layim.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/layim/layim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/layim/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/skin/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/skin/layer.ext.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/layer/skin/moon/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/markdown/bootstrap-markdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/markdown/bootstrap-markdown.zh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/markdown/markdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/markdown/to-markdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/metisMenu/jquery.metisMenu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/morris/morris.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/morris/raphael-2.1.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/nestable/jquery.nestable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/nouslider/jquery.nouislider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/pace/pace.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/peity/jquery.peity.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/plyr/plyr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/preetyTextDiff/jquery.pretty-text-diff.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/prettyfile/bootstrap-prettyfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/rickshaw/rickshaw.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/rickshaw/vendor/d3.v3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/simditor/hotkeys.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/simditor/module.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/simditor/simditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/simditor/uploader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/slimscroll/jquery.slimscroll.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/sparkline/jquery.sparkline.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/staps/jquery.steps.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/suggest/bootstrap-suggest.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/summernote/summernote-zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/summernote/summernote.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/sweetalert/sweetalert.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/switchery/switchery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/toastr/toastr.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/treeview/bootstrap-treeview.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/validate/jquery.validate.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/validate/messages_zh.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/webuploader/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/plugins/webuploader/webuploader.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/js/welcome.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/plugins/fullavatareditor/scripts/fullAvatarEditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/plugins/fullavatareditor/scripts/jQuery.Cookie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/plugins/fullavatareditor/scripts/swfobject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/static/plugins/fullavatareditor/scripts/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/templates/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/templates/500.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/templates/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/templates/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/main/resources/templates/login_v2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/src/test/java/com/njwt/cms/client/ClientApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/ClientApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/controller/UserController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/core/config/FeignConfig.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/core/config/HttpClientConfiguration$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/core/config/HttpClientConfiguration.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/core/exception/GlobalExceptionHandlerAdvisor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/feign/FeignClientUser.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/feign/hystrix/UserFeignClientHystrixFallback.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/com/njwt/cms/client/model/UserModel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/animate.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/bootstrap.min14ed.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/demo/webuploader-demo.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/font-awesome.min93e3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/login.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/patterns/header-profile-skin-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/patterns/header-profile-skin-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/patterns/header-profile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/patterns/shattered.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/css/blueimp-gallery.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/error.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/error.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/play-pause.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/play-pause.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/video-play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/blueimp/img/video-play.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/bootstrap-table/bootstrap-table.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/chosen/chosen-sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/chosen/chosen-sprite@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/chosen/chosen.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/clockpicker/clockpicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/codemirror/ambiance.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/codemirror/codemirror.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/colorpicker/css/bootstrap-colorpicker.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/colorpicker/img/bootstrap-colorpicker/alpha-horizontal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/colorpicker/img/bootstrap-colorpicker/alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/colorpicker/img/bootstrap-colorpicker/hue-horizontal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/colorpicker/img/bootstrap-colorpicker/hue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/colorpicker/img/bootstrap-colorpicker/saturation.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/cropper/cropper.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/dataTables/dataTables.bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/datapicker/datepicker3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/dropzone/basic.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/dropzone/dropzone.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/footable/fonts/footable.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/footable/fonts/footable.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/footable/fonts/footable.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/footable/fonts/footable.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/footable/fonts/footabled41d.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/footable/footable.core.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/fullcalendar/fullcalendar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/fullcalendar/fullcalendar.print.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/iCheck/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/iCheck/green.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/iCheck/green@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/images/sort_asc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/images/sort_desc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/images/sprite-skin-flat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/images/spritemap.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/images/spritemap@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/ionRangeSlider/ion.rangeSlider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/ionRangeSlider/ion.rangeSlider.skinFlat.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/jasny/jasny-bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/jqgrid/ui.jqgridffe4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/jsTree/style.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/markdown/bootstrap-markdown.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/morris/morris-0.4.3.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/nouslider/jquery.nouislider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/plyr/plyr.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/plyr/sprite.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/simditor/simditor.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/steps/jquery.steps.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/summernote/summernote-bs3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/summernote/summernote.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/sweetalert/sweetalert.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/switchery/switchery.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/toastr/toastr.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/treeview/bootstrap-treeview.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/plugins/webuploader/webuploader.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/style.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/css/style.min862f.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/fontawesome-webfont93e3.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/fontawesome-webfont93e3.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/fontawesome-webfont93e3.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/fontawesome-webfont93e3.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/fontawesome-webfont93e3.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/fontawesome-webfontd41d.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/fonts/glyphicons-halflings-regulard41d.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/a9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/iconfont-logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/index.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/index_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/loading-upload.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/locked.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/login-background.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/p1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/p2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/p3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/p_big1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/p_big2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/p_big3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/pay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/profile.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/profile_big.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/profile_small.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/progress.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/qr_code.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/success.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/user.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/img/wenku_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/cms/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/cms/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/contabs.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/content.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/bootstrap-table-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/echarts-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/flot-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/form-advanced-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/form-validate-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/layer-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/morris-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/peity-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/rickshaw-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/sparkline-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/treeview-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/demo/webuploader-demo.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/hplus.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/jquery-ui-1.10.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/jquery-ui.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/beautifyhtml/beautifyhtml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/blueimp/jquery.blueimp-gallery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/bootstrap-table/bootstrap-table-mobile.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/bootstrap-table/bootstrap-table.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/chartJs/Chart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/chosen/chosen.jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/clockpicker/clockpicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/codemirror/codemirror.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/codemirror/mode/javascript/javascript.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/colorpicker/bootstrap-colorpicker.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/cropper/cropper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/dataTables/dataTables.bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/dataTables/jquery.dataTables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/datapicker/bootstrap-datepicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/diff_match_patch/diff_match_patch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/dropzone/dropzone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/easypiechart/jquery.easypiechart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/echarts/echarts-all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/blank.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/fancybox_loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/fancybox_loading@2x.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/fancybox_overlay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/fancybox_sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/fancybox_sprite@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/jquery.fancybox.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fancybox/jquery.fancybox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/curvedLines.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/jquery.flot.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/jquery.flot.pie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/jquery.flot.resize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/jquery.flot.spline.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/jquery.flot.symbol.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/flot/jquery.flot.tooltip.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/footable/footable.all.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/fullcalendar/fullcalendar.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/gritter/images/gritter-light.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/gritter/images/gritter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/gritter/images/ie-spacer.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/gritter/jquery.gritter.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/gritter/jquery.gritter.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/iCheck/icheck.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/ionRangeSlider/ion.rangeSlider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jasny/jasny-bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jeditable/jquery.jeditable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jqgrid/i18n/grid.locale-cnffe4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jqgrid/jquery.jqGrid.minffe4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jquery-ui/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jsKnob/jquery.knob.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jsTree/jstree.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/extend/layer.ext.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/layDate官网.url" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/need/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/skins/dahong/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/skins/dahong/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/skins/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/skins/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/skins/molv/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/laydate/skins/molv/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate-v1.1/更新日志.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/need/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/skins/dahong/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/skins/dahong/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/skins/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/skins/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/skins/molv/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/laydate/skins/molv/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/layer.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/layim/layim.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/layim/layim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/layim/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/skin/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/skin/layer.ext.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/layer/skin/moon/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/markdown/bootstrap-markdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/markdown/bootstrap-markdown.zh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/markdown/markdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/markdown/to-markdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/metisMenu/jquery.metisMenu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/morris/morris.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/morris/raphael-2.1.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/nestable/jquery.nestable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/nouslider/jquery.nouislider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/pace/pace.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/peity/jquery.peity.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/plyr/plyr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/preetyTextDiff/jquery.pretty-text-diff.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/prettyfile/bootstrap-prettyfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/rickshaw/rickshaw.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/rickshaw/vendor/d3.v3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/simditor/hotkeys.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/simditor/module.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/simditor/simditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/simditor/uploader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/slimscroll/jquery.slimscroll.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/sparkline/jquery.sparkline.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/staps/jquery.steps.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/suggest/bootstrap-suggest.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/summernote/summernote-zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/summernote/summernote.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/sweetalert/sweetalert.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/switchery/switchery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/toastr/toastr.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/treeview/bootstrap-treeview.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/validate/jquery.validate.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/validate/messages_zh.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/webuploader/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/plugins/webuploader/webuploader.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/js/welcome.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/plugins/fullavatareditor/scripts/fullAvatarEditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/plugins/fullavatareditor/scripts/jQuery.Cookie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/plugins/fullavatareditor/scripts/swfobject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/static/plugins/fullavatareditor/scripts/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/templates/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/templates/500.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/templates/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/templates/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/classes/templates/login_v2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client_cms/target/test-classes/com/njwt/cms/client/ClientApplicationTests.class" />
+    <list default="true" id="5e452f88-6354-4918-bd5a-83e1b6855178" name="Default" comment="cms-gateway">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_24.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_auth0_java_jwt_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_6_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_6_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_httpclient_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_26_incubating.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_CR1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_2_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_2_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_10_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_23_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src/main/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka" />
       <change beforePath="" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka/EurekaApplication.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_unknown.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/server-cms.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/ServerApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/UserServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/eureka/eureka.iml" afterPath="$PROJECT_DIR$/eureka/eureka.iml" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application-dev.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application-prod.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application.yml" afterPath="$PROJECT_DIR$/eureka/target/classes/application.yml" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/njwt/eureka/EurekaApplication.class" afterPath="$PROJECT_DIR$/eureka/target/classes/com/njwt/eureka/EurekaApplication.class" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/server_cms/server_cms.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/application.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/core/config/MyRedisConfiguration.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/core/config/MybatisConfigurer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/core/dao/UserDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/core/dao/impl/UserDaoImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/core/exception/GlobalExceptionHandlerAdvisor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/core/mapper/BaseMapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/entity/UserEntity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/mapper/UserMapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/server/MainConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/server/ServercmsApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/server/Swagger2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/service/UserService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/classes/com/njwt/cms/service/api/UserServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server_cms/target/test-classes/com/njwt/cms/server/ServercmsApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/mvnw" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/mvnw.cmd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/src/main/java/com/njwt/cms/web/WebApplication.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/src/main/java/com/njwt/cms/web/controller/UserController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/src/main/java/com/njwt/cms/web/server/MainConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/src/main/resources/application.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web_cms/src/test/java/com/njwt/cms/web/WebApplicationTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/wtmaster.iml" afterPath="$PROJECT_DIR$/.idea/wtmaster.iml" />
     </list>
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/eureka/target/" />
+    <ignored path="$PROJECT_DIR$/client_cms/target/" />
+    <ignored path="$PROJECT_DIR$/api-cms/target/" />
+    <ignored path="$PROJECT_DIR$/server-cms/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/gateway/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ClientApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/ClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#5;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#6;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="487" column="0" lean-forward="true" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wxaccount.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/wxaccount.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="173" column="42" lean-forward="true" selection-start-line="173" selection-start-column="42" selection-end-line="173" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <marker date="1537945556321" expanded="true" signature="703:768" ph="SELECT * FRO... MST_DICT" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/ProducerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-171">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WxAccountController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>input</find>
+      <find>br</find>
+      <find>&lt;br&gt;</find>
+      <find>seamless</find>
+      <find>img</find>
+      <find>ifr</find>
+      <find>ul</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -614,17 +431,64 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/client_cms/src/main/resources/static/js/cms/login.js" />
+        <option value="$PROJECT_DIR$/client_cms/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/client_cms/src/main/resources/templates/main.html" />
+        <option value="$PROJECT_DIR$/client_cms/src/main/resources/templates/wxaccount.html" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountServiceImpl.java" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="486" />
     <option name="y" value="12" />
     <option name="width" value="1308" />
     <option name="height" value="1071" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -652,6 +516,96 @@
               <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -660,12 +614,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="nele.options" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../estateplat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\wtmaster\client_cms\src\main\resources\templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -679,7 +648,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.ClientApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -728,6 +697,47 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.cms.api.ApiApplication" />
+      <module name="api-cms" />
+      <envs />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.common.Application" />
+      <module name="common" />
+      <envs />
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.cms.client.ClientApplication" />
+      <module name="client" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.eureka.EurekaApplication" />
+      <module name="eureka" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.njwt.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.gateway.GatewayApplication" />
+      <module name="gateway" />
+      <envs />
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.cms.server.ServerApplication" />
+      <module name="server-cms" />
+      <envs />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -761,6 +771,19 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ClientApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ApiApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.ServerApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -770,8 +793,34 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>C:\Users\ibm\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\development\wtmaster\eureka" />
+          <option name="myCopyRoot" value="D:\development\wtmaster\eureka" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\development\wtmaster\server-cms" />
+          <option name="myCopyRoot" value="D:\development\wtmaster\server-cms" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\development\wtmaster\eureka" />
+          <option name="myCopyRoot" value="D:\development\wtmaster\eureka" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\development\wtmaster\server-cms" />
+          <option name="myCopyRoot" value="D:\development\wtmaster\server-cms" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -780,7 +829,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541047742912</updated>
-      <workItem from="1541047748155" duration="739000" />
+      <workItem from="1541047748155" duration="9250000" />
     </task>
     <task id="LOCAL-00001" summary="cms-api">
       <created>1541047941719</created>
@@ -789,35 +838,49 @@
       <option name="project" value="LOCAL" />
       <updated>1541047941719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cms-client">
+      <created>1541048585201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541048585201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="739000" />
+    <option name="totallyTimeSpent" value="9250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32459018" sideWeight="0.49439102" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32444444" sideWeight="0.505609" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21908316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38" sideWeight="0.6652452" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.4914712" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.21748401" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21908316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27558637" sideWeight="0.487055" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.782516" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32459018" sideWeight="0.49439102" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.49679488" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38" sideWeight="0.66257995" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.4914712" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49573562" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27558637" sideWeight="0.487055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17217484" sideWeight="0.5058043" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.66684437" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2684295" sideWeight="0.512945" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -826,13 +889,7 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.49679488" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49573562" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17217484" sideWeight="0.5058043" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -844,17 +901,298 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cms-api" />
     <MESSAGE value="cms-client" />
-    <option name="LAST_COMMIT_MESSAGE" value="cms-client" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#340#341#0" expanded="false" />
+            <element signature="e#399#400#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/GatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.8.RELEASE/spring-expression-4.3.8.RELEASE-sources.jar!/org/springframework/expression/spel/ast/PropertyOrFieldReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/login_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/static/js/cms/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/static/js/cms/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/index_v148b2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="308" column="56" lean-forward="false" selection-start-line="308" selection-start-column="56" selection-end-line="308" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="e#2175#2176#0" expanded="true" />
+            <element signature="e#2205#2206#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
+            <element signature="e#2467#2468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/ClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="487" column="0" lean-forward="true" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/wxaccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="173" column="42" lean-forward="true" selection-start-line="173" selection-start-column="42" selection-end-line="173" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1537945556321" expanded="true" signature="703:768" ph="SELECT * FRO... MST_DICT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/ProducerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gateway</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
