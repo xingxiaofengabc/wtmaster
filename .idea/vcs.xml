@@ -8,5 +8,7 @@
     <mapping directory="$PROJECT_DIR$/eureka" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/gateway" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/server-cms" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/server-oauth" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/server-wechat" vcs="svn" />
   </component>
 </project>

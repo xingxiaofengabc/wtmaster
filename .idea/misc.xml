@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/server-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/server-wechat/pom.xml" />
       </list>
     </option>
   </component>

@@ -12,6 +12,8 @@
         <module name="eureka" />
         <module name="gateway" />
         <module name="server-cms" />
+        <module name="server-oauth" />
+        <module name="server-wechat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +23,8 @@
       <module name="eureka" target="1.8" />
       <module name="gateway" target="1.8" />
       <module name="server-cms" target="1.8" />
+      <module name="server-oauth" target="1.8" />
+      <module name="server-wechat" target="1.8" />
       <module name="wtmaster" target="1.8" />
     </bytecodeTargetLevel>
   </component>

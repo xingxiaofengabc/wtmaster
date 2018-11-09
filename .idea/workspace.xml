@@ -1,39 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="5e452f88-6354-4918-bd5a-83e1b6855178" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/gateway.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/GatewayApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/config" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/config/CorsConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/config/FilterConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/feign" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/feign/FeignClientUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/filter" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/filter/CustomAuthFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/njwt/gateway/filter/PostRequestFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/njwt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/njwt/gateway" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/njwt/gateway/GatewayApplicationTests.java" />
+    <list default="true" readonly="true" id="5e452f88-6354-4918-bd5a-83e1b6855178" name="Default" comment="网关 初始化">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/.mvn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/.mvn/wrapper" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/server-oauth.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/OauthApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/config/AuthorizationServerConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/main/resources/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test/java/com/njwt/server" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test/java/com/njwt/server/oauth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-oauth/src/test/java/com/njwt/server/oauth/OauthApplicationTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/.mvn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/.mvn/wrapper" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/server-wechat.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/WechatApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/common" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller/WechatController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/BaseMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/Image.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/ImageMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/Text.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/TextMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/BaseMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/ImageMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/LinkMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/LocationMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/TextMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/VoiceMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp/Article.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp/BaseMessageResp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp/Music.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp/MusicMessageResp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp/NewsMessageResp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/resp/TextMessageResp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/LogUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/MessageUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/SignUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/service" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/service/WechatService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/templates" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/templates/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test/java/com" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test/java/com/njwt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test/java/com/njwt/server" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test/java/com/njwt/server/wechat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/test/java/com/njwt/server/wechat/WechatApplicationTests.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/common/target/" />
@@ -43,6 +108,8 @@
     <ignored path="$PROJECT_DIR$/server-cms/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/gateway/target/" />
+    <ignored path="$PROJECT_DIR$/server-oauth/target/" />
+    <ignored path="$PROJECT_DIR$/server-wechat/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +118,90 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-wechat/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/ClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WechatApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/WechatApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WechatController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller/WechatController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_cms/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/LogUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="225" column="9" lean-forward="false" selection-start-line="225" selection-start-column="9" selection-end-line="225" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -92,6 +236,20 @@
         <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java" />
         <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountService.java" />
         <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/config/AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/common/SignUtil.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/common/MessageUtil.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/SignUtil.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/Text.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/BaseMessage.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/MessageUtil.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/service/WechatService.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller/WechatController.java" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/LogUtil.java" />
+        <option value="$PROJECT_DIR$/server-wechat/pom.xml" />
+        <option value="$PROJECT_DIR$/server-wechat/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -106,22 +264,59 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="oauth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="oauth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oauth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechat" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechat" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechat" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechat" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechat" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechat" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="spring-boot" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="486" />
-    <option name="y" value="12" />
+    <option name="x" value="440" />
+    <option name="y" value="171" />
     <option name="width" value="1308" />
-    <option name="height" value="1071" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -155,7 +350,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,21 +364,97 @@
             <path>
               <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="client_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="nele.options" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
@@ -196,7 +470,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\wtmaster\server-wechat\src\main\resources\templates" />
+      <recent name="D:\development\wtmaster\server-wechat\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\wtmaster\server-wechat\src\main\resources" />
+      <recent name="D:\development\wtmaster\server-wechat\src\main\java\com\njwt\server\wechat\core\message" />
       <recent name="D:\development\wtmaster\client_cms\src\main\resources\templates" />
     </key>
   </component>
@@ -212,7 +492,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ClientApplication">
+  <component name="RunManager" selected="Spring Boot.WechatApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -296,10 +576,22 @@
       <module name="gateway" />
       <envs />
     </configuration>
+    <configuration name="OauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.server.oauth.OauthApplication" />
+      <module name="server-oauth" />
+      <envs />
+    </configuration>
     <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.cms.server.ServerApplication" />
       <module name="server-cms" />
+      <envs />
+    </configuration>
+    <configuration name="WechatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.njwt.server.wechat.WechatApplication" />
+      <module name="server-wechat" />
       <envs />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -335,13 +627,15 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="6">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaApplication" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.ClientApplication" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.ApiApplication" />
       <item index="4" class="java.lang.String" itemvalue="Spring Boot.ServerApplication" />
-      <item index="5" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.OauthApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.WechatApplication" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -419,7 +713,9 @@
       <option name="presentableId" value="Default" />
       <updated>1541047742912</updated>
       <workItem from="1541047748155" duration="9697000" />
-      <workItem from="1541059160056" duration="95000" />
+      <workItem from="1541059160056" duration="978000" />
+      <workItem from="1541407411014" duration="2063000" />
+      <workItem from="1541747441275" duration="7490000" />
     </task>
     <task id="LOCAL-00001" summary="cms-api">
       <created>1541047941719</created>
@@ -456,35 +752,44 @@
       <option name="project" value="LOCAL" />
       <updated>1541058969503</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="网关 初始化">
+      <created>1541059302272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541059302272</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9792000" />
+    <option name="totallyTimeSpent" value="20228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.21748401" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21908316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38" sideWeight="0.34541577" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14552239" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.782516" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.7729211" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32459018" sideWeight="0.49439102" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.49679488" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.4914712" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38" sideWeight="0.66257995" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38" sideWeight="0.6545842" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49573562" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27878466" sideWeight="0.487055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083156" sideWeight="0.487055" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17217484" sideWeight="0.5058043" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -497,7 +802,6 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.49679488" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
@@ -515,7 +819,8 @@
     <MESSAGE value="api-cms 初始化" />
     <MESSAGE value="common 初始化" />
     <MESSAGE value="网关 初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="网关 初始化" />
+    <MESSAGE value="权限，微信服务端" />
+    <option name="LAST_COMMIT_MESSAGE" value="权限，微信服务端" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -524,6 +829,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/OauthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#249#250#0" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -543,19 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#340#341#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,28 +905,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/index_v148b2.html" />
-    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/ClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#583#584#0" expanded="false" />
-            <element signature="e#642#643#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,6 +965,281 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-oauth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/config/AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="43" column="64" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/OauthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#249#250#0" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/SignUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/BaseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/ImageMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/customer/TextMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/message/req/BaseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/MessageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2645">
+          <caret line="115" column="28" lean-forward="false" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2282#2312#0" expanded="false" />
+            <element signature="e#2480#2496#0" expanded="false" />
+            <element signature="e#4287#4317#0" expanded="false" />
+            <element signature="e#4382#4383#0" expanded="false" />
+            <element signature="e#4450#4451#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="355" column="25" lean-forward="false" selection-start-line="355" selection-start-column="25" selection-end-line="355" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/service/WechatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="e#6273#6274#0" expanded="false" />
+            <element signature="e#6309#6310#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="225" column="9" lean-forward="false" selection-start-line="225" selection-start-column="9" selection-end-line="225" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/target/classes/com/njwt/server/wechat/WechatApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/ClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/core/config/HttpClientConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="68" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/core/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/WechatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller/WechatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
