@@ -1,0 +1,4 @@
+
+ksquid:S2259"J"NullPointerException" will be thrown when invoking method "getHeaders()".(“÷›¿ûÿÿÿÿ8šÂÞÜð,
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäþÿÿÿÿ8šÂÞÜð,
+ssquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ8šÂÞÜð,

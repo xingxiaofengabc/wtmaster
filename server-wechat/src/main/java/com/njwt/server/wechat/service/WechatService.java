@@ -14,6 +14,8 @@ import java.util.*;
 @Service
 public class WechatService {
 
+    private static final String SYS_ACCOUNTID="wx0928e8502580519d";
+
     public String coreService(HttpServletRequest request) {
         String respMessage = null;
         try {
@@ -34,8 +36,8 @@ public class WechatService {
             //根据微信ID,获取配置的全局的数据权限ID
             LogUtil.info("-toUserName--------"+toUserName);
             //String sys_accountId = weixinAccountService.findByToUsername(toUserName).getId();
-            String sys_accountId="gh_36c63147edb5";
-            LogUtil.info("-sys_accountId--------"+sys_accountId);
+
+            LogUtil.info("-sys_accountId--------"+SYS_ACCOUNTID);
             ResourceBundle bundler = ResourceBundle.getBundle("sysConfig");
             // 默认回复此文本消息
             TextMessageResp textMessage = new TextMessageResp();
@@ -50,7 +52,7 @@ public class WechatService {
             if (msgType.equals(MessageUtil.REQ_MESSAGE_TYPE_TEXT)) {
                 LogUtil.info("------------微信客户端发送请求------------------【微信触发类型】文本消息---");
                 respMessage = doTextResponse(content,toUserName,textMessage,bundler,
-                        sys_accountId,respMessage,fromUserName,request,msgId,msgType);
+                        SYS_ACCOUNTID,respMessage,fromUserName,request,msgId,msgType);
             }
             //【微信触发类型】图片消息
             else if (msgType.equals(MessageUtil.REQ_MESSAGE_TYPE_IMAGE)) {

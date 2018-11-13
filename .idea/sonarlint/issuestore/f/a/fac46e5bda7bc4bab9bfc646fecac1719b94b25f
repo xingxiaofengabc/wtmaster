@@ -1,0 +1,8 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÌÅ•8ÁëÁØğ,
+squid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ó´ƒÂ8ÁëÁØğ,
+usquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(‹£Íˆ8ÁëÁØğ,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¸Û‹8ÁëÁØğ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÁëÁØğ,
+8squid:S1643"Use a StringBuilder instead.(œÜËê8ÁëÁØğ,
+Wsquid:S1854";Remove this useless assignment to local variable "content".(­ûÈº8ÁëÁØğ,

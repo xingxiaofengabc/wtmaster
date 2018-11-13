@@ -1,0 +1,24 @@
+
+`squid:S1854"?Remove this useless assignment to local variable "respContent".(ÉŠµòúÿÿÿÿ8î‹ûÜğ,
+[squid:S1854"?Remove this useless assignment to local variable "respContent".(öÈØ 8î‹ûÜğ,
+msquid:S1871"LThis branch's code block is the same as the block for the branch on line 77.(”ÊœÆıÿÿÿÿ8î‹ûÜğ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶§ÉÙùÿÿÿÿ8î‹ûÜğ,
+Wsquid:UselessImportCheck"/Remove this unused import 'java.sql.Timestamp'.(èò½+8î‹ûÜğ,
+`squid:S1854"?Remove this useless assignment to local variable "respContent".(ÛğÙäøÿÿÿÿ8î‹ûÜğ,
+_squid:S00107"=Method has 10 parameters, which is greater than 7 authorized.(ßùõûÿÿÿÿ8î‹ûÜğ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8î‹ûÜğ,
+`squid:S1854"?Remove this useless assignment to local variable "respContent".(ò‘Ğøÿÿÿÿ8î‹ûÜğ,
+Lsquid:S1481"0Remove this unused "respContent" local variable.(ŠóàÄ8î‹ûÜğ,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(üë°¹üÿÿÿÿ8î‹ûÜğ,
+€squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8î‹ûÜğ,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¶§ÉÙùÿÿÿÿ8î‹ûÜğ,
+~squid:UselessImportCheck"URemove this unused import 'com.njwt.server.wechat.core.message.resp.NewsMessageResp'.(­“ïµ8î‹ûÜğ,
+gsquid:S1871"LThis branch's code block is the same as the block for the branch on line 77.(ÏßÆ 8î‹ûÜğ,
+Zsquid:S3400"9Remove this method and declare a constant for this value.(ø×Öııÿÿÿÿ8î‹ûÜğ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø…àııÿÿÿÿ8î‹ûÜğ,
+Gsquid:S1172"&Remove these unused method parameters.(ßùõûÿÿÿÿ8î‹ûÜğ,
+[squid:S1854"?Remove this useless assignment to local variable "respContent".(ŠóàÄ8î‹ûÜğ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á±·½8î‹ûÜğ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßú‚˜ùÿÿÿÿ8î‹ûÜğ,
+dsquid:S1226"HIntroduce a new variable instead of reusing the parameter "respMessage".(ŒÅƒ 8î‹ûÜğ,
+{squid:UselessImportCheck"MRemove this unused import 'com.njwt.server.wechat.core.message.resp.Article'.(íäË÷ıÿÿÿÿ8î‹ûÜğ,

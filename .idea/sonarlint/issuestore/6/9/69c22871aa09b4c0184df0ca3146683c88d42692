@@ -1,0 +1,21 @@
+
+]squid:UnusedPrivateMethod".Remove this unused private "getLogger" method.(ÿÒÆ‹ùÿÿÿÿ8ÁëÁØğ,
+\squid:UnusedPrivateMethod"2Remove this unused private "getConfigFile" method.(Õ¥é³8ÁëÁØğ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“ŸÚå8ÁëÁØğ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßàö‰8ÁëÁØğ,
+|squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "filePath".(†ÔÍ¸8ÁëÁØğ,
+hsquid:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡8ÁëÁØğ,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(µ¤õ£8ÁëÁØğ,
+Bsquid:S1172"&Remove these unused method parameters.(øää8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ÁëÁØğ,

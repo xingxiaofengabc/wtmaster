@@ -1,0 +1,9 @@
+
+[squid:S1161":Add the "@Override" annotation above this method signature(ñº¶”øÿÿÿÿ8Š•„¼ï,
+bsquid:S2133"ARemove this object instantiation and use "Article.class" instead.(¤ÆÒúÿÿÿÿ8Š•„¼ï,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(©¹Â¾ûÿÿÿÿ8Š•„¼ï,
+[squid:S1161":Add the "@Override" annotation above this method signature(½ÕöÜùÿÿÿÿ8Š•„¼ï,
+[squid:S1854"?Remove this useless assignment to local variable "inputStream".(ø‹¨º8Š•„¼ï,
+[squid:S1161":Add the "@Override" annotation above this method signature(ÛÑ¶¸ùÿÿÿÿ8Š•„¼ï,
+Usquid:S1118":Add a private constructor to hide the implicit public one.(Òö g8Š•„¼ï,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ8Š•„¼ï,

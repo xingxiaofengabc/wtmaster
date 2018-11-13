@@ -1,0 +1,8 @@
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\core\config\FeignConfig.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\feign\FeignClientUser.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\core\exception\GlobalExceptionHandlerAdvisor.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\ClientApplication.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\controller\UserController.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\feign\hystrix\UserFeignClientHystrixFallback.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\core\config\HttpClientConfiguration.java
+D:\development\wtmaster\client_cms\src\main\java\com\njwt\cms\client\model\UserModel.java
