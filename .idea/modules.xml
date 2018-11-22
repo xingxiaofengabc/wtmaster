@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-basis/server-basis.iml" filepath="$PROJECT_DIR$/server-basis/server-basis.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-cms/server-cms.iml" filepath="$PROJECT_DIR$/server-cms/server-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-oauth/server-oauth.iml" filepath="$PROJECT_DIR$/server-oauth/server-oauth.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-wechat/server-wechat.iml" filepath="$PROJECT_DIR$/server-wechat/server-wechat.iml" />

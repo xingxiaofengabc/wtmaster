@@ -11,6 +11,7 @@
         <module name="common" />
         <module name="eureka" />
         <module name="gateway" />
+        <module name="server-basis" />
         <module name="server-cms" />
         <module name="server-oauth" />
         <module name="server-wechat" />
@@ -22,9 +23,12 @@
       <module name="common" target="1.8" />
       <module name="eureka" target="1.8" />
       <module name="gateway" target="1.8" />
+      <module name="server-basis" target="1.8" />
       <module name="server-cms" target="1.8" />
+      <module name="server-master" target="1.8" />
       <module name="server-oauth" target="1.8" />
       <module name="server-wechat" target="1.8" />
+      <module name="server_master" target="1.8" />
       <module name="wtmaster" target="1.8" />
     </bytecodeTargetLevel>
   </component>

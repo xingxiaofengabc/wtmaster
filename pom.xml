@@ -12,6 +12,7 @@
 
      <modules>
 		 <module>eureka</module>
+		 <module>server-basis</module>
 		 <module>server-cms</module>
 		 <module>client_cms</module>
 		 <module>api-cms</module>

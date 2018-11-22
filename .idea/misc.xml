@@ -7,7 +7,15 @@
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/server-oauth/pom.xml" />
         <option value="$PROJECT_DIR$/server-wechat/pom.xml" />
+        <option value="$PROJECT_DIR$/server_master/pom.xml" />
+        <option value="$PROJECT_DIR$/server-master/pom.xml" />
+        <option value="$PROJECT_DIR$/server-basis/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/server-master/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
