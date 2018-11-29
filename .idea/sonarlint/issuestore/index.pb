@@ -137,3 +137,11 @@ y
 Iserver-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java,c\4\c452b344e024ed10b93cc3065787dfcfe306f9c4
 j
 :server-cms/src/main/java/com/njwt/cms/server/Swagger2.java,4\0\40e9d3bdf0271c34a66ecfde6a669280f059378e
+q
+Aserver-cms/src/main/java/com/njwt/cms/core/mapper/BaseMapper.java,3\d\3d97d69879b4303d08223dfbe35754ba1df5bee5
+t
+Dserver-cms/src/main/java/com/njwt/cms/mapping/SwiperEntityMapper.xml,b\0\b0664207d823f3462b621b09ee2f740c5a82983f
+t
+Dserver-cms/src/main/java/com/njwt/cms/mapper/SwiperEntityMapper.java,4\2\42ea0e81dc1c3693e079e2933e67cb7048ad79da
+u
+Eserver-cms/src/main/java/com/njwt/cms/entity/SwiperEntityExample.java,c\3\c332fd53699c4f049df8a9ed92a2858bfab71b5a

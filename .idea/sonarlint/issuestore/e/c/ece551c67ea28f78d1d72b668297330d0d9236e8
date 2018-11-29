@@ -1,2 +1,5 @@
 
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬´ÉŒÿÿÿÿÿ8÷´îÇõ,
+‚squid:S14881"dImmediately return this expression instead of assigning it to the temporary variable "dbSwiperList".(Ë»ˆ¹8ã«“îõ,
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8ã«“îõ,
+fsquid:UselessImportCheck";Remove this unused import 'com.njwt.cms.entity.UserEntity'.(Œ¯¾¥8¤Ù”îõ,
+¥squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(”·³›8€Òïîõ,
