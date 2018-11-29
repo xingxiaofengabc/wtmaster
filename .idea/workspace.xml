@@ -2,16 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="5e452f88-6354-4918-bd5a-83e1b6855178" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a79daf118e1433ca6009cba1c99e6ef2d8e8763" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d22a10f7301cf5df4b8f993d1dca8cf979dd22a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e656f5290b502fc9e01a0fbcfbd3823b0d34178" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f5f3820cc5227db0207337fd7a48e62d2bc51d3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13f0d39732037ae8b96b671b745b5e63430318c6" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/179e5dc885de90402ef58ba9d2eff7c0dfe6ff4e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a4bc9b0233410402894dca80ca0fb6d9d903ffd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e8eaa6a9b3d182912ab335d3704e942ac02902b" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/226dc765a26adb2da6139a8aced50862a888d86f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27991c4a6cb2e46f53bc981bce46f68319804e53" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c50444c46a9e427c41ebc7ef94d19a393cdf36a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40e9d3bdf0271c34a66ecfde6a669280f059378e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/441a341ba49d316bc56171505f07732c610c2acb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c124f429a0d23e19703968fd3b5d2be2523e762" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b06e56df21cb1fd1873978ce6ddfb7acef65857" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cf53c51cc2a8da7afb58197c56791ba703ec577" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6907c1f1c600edb5159f0072bbe0e9ea7db5a8a4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b6acaa8512a3bf91e7e48c2cf1d2e594399c624" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72b5eb33d0bc72a64ab2ba4d99930947c257442d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/815def87d3a17dda47bbb1b386f3084482937859" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89f2d639750c86b02c3fa430cc2991449f82331a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98e6595d96a447a2c9c3dca94b6b8045371f4f62" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a03aeb6ae9c4a5e60f5acafd284b4814a350aa28" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0dab10bf72524a86ae1ba992ac408c3e9973036" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2949dc4e9efc07177f71d037fbfca2c1bc1fd5c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af3f13dffd754f6d2b6598e68770a0cc73741fe4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b61528b6181e747a0f9e1c5dc8b4bf8d347450b7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b792f96d5db7a3612d70b83660f3c1f12909a8ac" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b860e761773baf6517d0a8c57ebbeb8dd0996fde" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c452b344e024ed10b93cc3065787dfcfe306f9c4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4a63eeaa1a374bb6262a3167924c70487802456" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c726bc7284214562b6921d8fe40ac80e5ed81d94" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c741ca2f01eecac651d68c50ffd80afe9d39141e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d69e8339409e3b4230aa7512d803a3932dabd7fc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d81f3750204bf2a140806e8583c2f0bd66ce8a82" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e08fe33209cf377401e419533bdeb0320fc16805" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e33d5070549e131bfbee671189352c85214f676a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ece551c67ea28f78d1d72b668297330d0d9236e8" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f44e94910095e8c8ba833d26407da85cd5822d9a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6556e10f60b4acaf6b39c91da3cff4f9237e2dd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc921e88fc6f34e02c1525a1363d829c593ab572" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/.gitignore" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/.mvn" />
@@ -44,6 +75,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/UserServiceImpl.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/main/resources" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/main/resources/generatorConfig.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/test" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/test/java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/test/java/com" />
@@ -51,6 +83,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/test/java/com/njwt/basis" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-basis/src/test/java/com/njwt/basis/BasisApplicationTests.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/BaseServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/SwiperServiceImpl.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static/js" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static/js/data" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static/js/data/1001.json" />
@@ -59,18 +92,21 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static/js/data/1005.json" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static/js/data/1021.json" />
       <change beforePath="" afterPath="$PROJECT_DIR$/server-wechat/src/main/resources/static/js/data/1032.json" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08de149f710c48f088cc65032af33682b78a33cc" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08de149f710c48f088cc65032af33682b78a33cc" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d98765de8496378a8d844a3f077aeb7dc2d051" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d98765de8496378a8d844a3f077aeb7dc2d051" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/498a80b72eb1bfac29b10c20455af2876603f369" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/498a80b72eb1bfac29b10c20455af2876603f369" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69c22871aa09b4c0184df0ca3146683c88d42692" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69c22871aa09b4c0184df0ca3146683c88d42692" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_CR1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_23_0_RELEASE.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/server-cms/server-cms.iml" afterPath="$PROJECT_DIR$/server-cms/server-cms.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/eureka/target/" />
@@ -91,11 +127,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/controller/UserController.java">
+      <file leaf-file-name="SwiperEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/SwiperEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="299">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1060#1061#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1233#1234#0" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1299#1300#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/UserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwiperServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/SwiperServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+              <folding>
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1608#1609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwiperController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/SwiperController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,100 +206,96 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/UserController.java">
+      <file leaf-file-name="ServerApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/ServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="965">
-              <caret line="75" column="11" lean-forward="false" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProducerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/ProducerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/config/Swagger2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="299">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-basis/pom.xml">
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret line="91" column="43" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="91" selection-end-column="43" />
+            <state relative-caret-position="92">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/config/MainConfig.java">
+      <file leaf-file-name="SwiperMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/SwiperMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="138">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasisApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/BasisApplication.java">
+      <file leaf-file-name="SwiperEntityMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/SwiperEntityMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="92">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwiperEntityMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/SwiperEntityMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1265">
+              <caret line="79" column="34" lean-forward="true" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1543468533176" expanded="true" signature="3583:3692" ph="select from tb_cms_swiper" />
+                <marker date="1543468533176" expanded="true" signature="3778:3841" ph="delete from tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="3946:3971" ph="delete from tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="4233:4256" ph="SELECT LAST_... " />
+                <marker date="1543468533176" expanded="true" signature="4278:4529" ph="insert into tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="4708:4731" ph="SELECT LAST_... " />
+                <marker date="1543468533176" expanded="true" signature="5785:5819" ph="select count... tb_cms_swiper" />
+                <marker date="1543468533176" expanded="true" signature="6801:7105" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="7317:7834" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="7935:8200" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="11510:11619" ph="select from tb_cms_swiper" />
+                <marker date="1543468533176" expanded="true" signature="11705:11768" ph="delete from tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="11873:11898" ph="delete from tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="12160:12183" ph="SELECT LAST_... " />
+                <marker date="1543468533176" expanded="true" signature="12205:12419" ph="insert into tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="12598:12621" ph="SELECT LAST_... " />
+                <marker date="1543468533176" expanded="true" signature="13528:13562" ph="select count... tb_cms_swiper" />
+                <marker date="1543468533176" expanded="true" signature="14437:14690" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="14902:15326" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="15427:15648" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="18958:19067" ph="select from tb_cms_swiper" />
+                <marker date="1543468533176" expanded="true" signature="19153:19216" ph="delete from tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="19321:19346" ph="delete from tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="19608:19631" ph="SELECT LAST_... " />
+                <marker date="1543468533176" expanded="true" signature="19653:19867" ph="insert into tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="20046:20069" ph="SELECT LAST_... " />
+                <marker date="1543468533176" expanded="true" signature="20976:21010" ph="select count... tb_cms_swiper" />
+                <marker date="1543468533176" expanded="true" signature="21885:22138" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="22350:22774" ph="update tb_cms_swiper... " />
+                <marker date="1543468533176" expanded="true" signature="22875:23096" ph="update tb_cms_swiper... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-basis/src/main/resources/application.yml">
+      <file leaf-file-name="SwiperEntityExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/SwiperEntityExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-460">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="230">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EurekaApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka/EurekaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -222,7 +321,17 @@
       <find>img</find>
       <find>ifr</find>
       <find>ul</find>
+      <find>mysql-connector-java</find>
+      <find>generator</find>
+      <find>swiperMapper</find>
+      <find>globalNullPointerExceptionHandler</find>
+      <find>tk</find>
+      <find>SwiperEntityExample</find>
+      <find>User</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -235,17 +344,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/client_cms/src/main/resources/static/js/cms/login.js" />
-        <option value="$PROJECT_DIR$/client_cms/src/main/resources/templates/index.html" />
-        <option value="$PROJECT_DIR$/client_cms/src/main/java/com/njwt/cms/client/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/client_cms/src/main/resources/templates/main.html" />
-        <option value="$PROJECT_DIR$/client_cms/src/main/resources/templates/wxaccount.html" />
-        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java" />
-        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountService.java" />
-        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountServiceImpl.java" />
-        <option value="$PROJECT_DIR$/server-oauth/pom.xml" />
-        <option value="$PROJECT_DIR$/server-oauth/src/main/java/com/njwt/server/oauth/config/AuthorizationServerConfig.java" />
         <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/common/SignUtil.java" />
         <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/common/MessageUtil.java" />
         <option value="$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/core/util/SignUtil.java" />
@@ -279,9 +377,24 @@
         <option value="$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/BaseServiceImpl.java" />
         <option value="$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/UserMapping.xml" />
         <option value="$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/server-basis/pom.xml" />
         <option value="$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/config/Swagger2.java" />
         <option value="$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/server-basis/pom.xml" />
+        <option value="$PROJECT_DIR$/server-basis/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/CmsSwiperMapper.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/CmsSwiperEntity.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/SwiperMapper.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/Swagger2.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/Swagger2.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/SwiperMapper.xml" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/SwiperEntityMapper.xml" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/SwiperEntity.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/SwiperServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/SwiperController.java" />
       </list>
     </option>
   </component>
@@ -296,56 +409,28 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="server-cms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="server-cms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="server-cms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="io.springfox:springfox-swagger2:2.5.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="basis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="io.springfox:springfox-swagger-ui:2.5.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="271" />
-    <option name="y" value="423" />
+    <option name="x" value="557" />
+    <option name="y" value="239" />
     <option name="width" value="1308" />
-    <option name="height" value="1100" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -363,7 +448,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -379,10 +466,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -424,82 +507,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basis" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basis" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="server-basis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
@@ -564,6 +571,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -594,18 +612,98 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-oauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wtmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wtmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="server-wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../estateplat-chpe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
@@ -622,12 +720,16 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript&#10;JAVA" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.njwt.cms.server" />
+      <recent name="com.njwt.cms" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\wtmaster\server-cms\src\main\resources" />
       <recent name="D:\development\wtmaster\server-basis\src\main\resources" />
       <recent name="D:\development\wtmaster\server-basis\src\main\java\com\njwt\basis\config" />
       <recent name="D:\development\wtmaster\server-master\src\main\java\com\njwt\master\config" />
       <recent name="D:\development\wtmaster\server-master\src\main\resources" />
-      <recent name="D:\development\wtmaster\server-wechat\src\main\resources\static\js\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\development\wtmaster\server-wechat\src\main\resources\templates" />
@@ -646,7 +748,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BasisApplication">
+  <component name="RunManager" selected="Spring Boot.ServerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -814,9 +916,9 @@
       <item index="4" class="java.lang.String" itemvalue="Spring Boot.ServerApplication" />
       <item index="5" class="java.lang.String" itemvalue="Spring Boot.OauthApplication" />
       <item index="6" class="java.lang.String" itemvalue="Spring Boot.WechatApplication" />
-      <item index="7" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
-      <item index="8" class="java.lang.String" itemvalue="Application.MasterApplication" />
-      <item index="9" class="java.lang.String" itemvalue="Spring Boot.BasisApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.BasisApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Application.MasterApplication" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -857,6 +959,10 @@
           <option name="myCopyRoot" value="D:\development\wtmaster\gateway" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\development\wtmaster\server-basis" />
+          <option name="myCopyRoot" value="D:\development\wtmaster\server-basis" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
           <option name="myVcsRoot" value="D:\development\wtmaster\server-cms" />
           <option name="myCopyRoot" value="D:\development\wtmaster\server-cms" />
         </SvnCopyRootSimple>
@@ -887,6 +993,10 @@
         <SvnCopyRootSimple>
           <option name="myVcsRoot" value="D:\development\wtmaster\gateway" />
           <option name="myCopyRoot" value="D:\development\wtmaster\gateway" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\development\wtmaster\server-basis" />
+          <option name="myCopyRoot" value="D:\development\wtmaster\server-basis" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
           <option name="myVcsRoot" value="D:\development\wtmaster\server-cms" />
@@ -920,7 +1030,11 @@
       <workItem from="1542784684025" duration="1611000" />
       <workItem from="1542846896665" duration="3926000" />
       <workItem from="1542868734068" duration="1807000" />
-      <workItem from="1542870586553" duration="8446000" />
+      <workItem from="1542870586553" duration="9381000" />
+      <workItem from="1543197011612" duration="4178000" />
+      <workItem from="1543280154819" duration="9883000" />
+      <workItem from="1543370170617" duration="13343000" />
+      <workItem from="1543453431786" duration="17372000" />
     </task>
     <task id="LOCAL-00001" summary="cms-api">
       <created>1541047941719</created>
@@ -982,13 +1096,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61462000" />
+    <option name="totallyTimeSpent" value="107173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38" sideWeight="0.22974414" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38" sideWeight="0.2585288" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14552239" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -996,21 +1111,22 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.75053304" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.7473348" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32459018" sideWeight="0.49439102" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.48187634" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.46908316" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.4914712" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38" sideWeight="0.77025586" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38" sideWeight="0.74147123" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49573562" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20575693" sideWeight="0.487055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.487055" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17217484" sideWeight="0.5058043" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2684295" sideWeight="0.512945" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1021,7 +1137,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1044,284 +1159,114 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/Swagger2.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller/WechatController.java">
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/controller/IndexController.java">
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/TbUserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="-1679">
+          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-wechat/src/main/java/com/njwt/server/wechat/service/WechatService.java">
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/entity/TbUserExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="-874">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-cms/src/main/java/com/njwt/cms/api/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-668">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/MainConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/ServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/java/com/njwt/master/server/ServerApplication.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/java/com/njwt/master/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2553">
-          <caret line="111" column="4" lean-forward="false" selection-start-line="111" selection-start-column="4" selection-end-line="121" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/java/com/njwt/master/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="44" column="59" lean-forward="false" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/java/com/njwt/master/config/MainConfig.java">
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapper/TbUserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-oauth/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-master/src/main/java/com/njwt/master/MasterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/UserMapping.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/UserMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="66" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/entity/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="61" column="36" lean-forward="true" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/core/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/BaseServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/entity/TbUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-          <folding />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/entity/CmsSwiperEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/CmsSwiperEntityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1334">
+          <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapper/CmsSwiperEntityMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/UserMapping.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/base/select/SelectByPrimaryKeyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/base/BaseSelectMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="321">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/BaseMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/BaseServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/server-basis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="125" column="0" lean-forward="true" selection-start-line="89" selection-start-column="3" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="181">
+          <caret line="155" column="48" lean-forward="false" selection-start-line="155" selection-start-column="48" selection-end-line="155" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -1329,71 +1274,80 @@
     <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/mapping/UserMapping.xml">
+    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/entity/UserEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <marker date="1542873753239" expanded="true" signature="703:768" ph="SELECT * FRO... MST_DICT" />
-          </folding>
+        <state relative-caret-position="643">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/service/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/CmsSwiperEntityExample.java" />
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/CmsSwiperEntity.java" />
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/CmsSwiperMapper.java" />
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/CmsSwiperMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/resources/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="537">
+          <caret line="49" column="69" lean-forward="false" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ResponseBody.java">
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/WxAccountController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="965">
-          <caret line="75" column="11" lean-forward="false" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+        <state relative-caret-position="-254">
+          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/ProducerController.java">
+    <entry file="file://$PROJECT_DIR$/server-wechat/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.8.RELEASE/spring-webmvc-4.3.8.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="91" column="43" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="91" selection-end-column="43" />
+        <state relative-caret-position="-3428">
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/MainConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1401,53 +1355,276 @@
     <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/njwt/eureka/EurekaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#340#341#0" expanded="false" />
+            <element signature="e#399#400#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/ProducerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/config/MainConfig.java">
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="322">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/core/mapper/BaseMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-460">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="184">
+          <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/config/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="230">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#557#558#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/example/SelectByExampleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="46" column="12" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/base/delete/DeleteByPrimaryKeyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/SwiperMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3312">
+          <caret line="201" column="10" lean-forward="true" selection-start-line="201" selection-start-column="10" selection-end-line="201" selection-end-column="10" />
+          <folding>
+            <marker date="1543468455315" expanded="true" signature="3538:3646" ph="select from tb_cms_swiper" />
+            <marker date="1543468455315" expanded="true" signature="3733:3796" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468455315" expanded="true" signature="3902:3927" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468455315" expanded="true" signature="4192:4215" ph="SELECT LAST_... " />
+            <marker date="1543468455315" expanded="true" signature="4237:4445" ph="insert into tb_cms_swiper... " />
+            <marker date="1543468455315" expanded="true" signature="4626:4649" ph="SELECT LAST_... " />
+            <marker date="1543468455315" expanded="true" signature="5567:5601" ph="select count... tb_cms_swiper" />
+            <marker date="1543468455315" expanded="true" signature="6486:6731" ph="update tb_cms_swiper... " />
+            <marker date="1543468455315" expanded="true" signature="6945:7374" ph="update tb_cms_swiper... " />
+            <marker date="1543468455315" expanded="true" signature="7476:7697" ph="update tb_cms_swiper... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/SwiperMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapping/SwiperEntityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1265">
+          <caret line="79" column="34" lean-forward="true" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+          <folding>
+            <marker date="1543468533176" expanded="true" signature="3583:3692" ph="select from tb_cms_swiper" />
+            <marker date="1543468533176" expanded="true" signature="3778:3841" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="3946:3971" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="4233:4256" ph="SELECT LAST_... " />
+            <marker date="1543468533176" expanded="true" signature="4278:4529" ph="insert into tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="4708:4731" ph="SELECT LAST_... " />
+            <marker date="1543468533176" expanded="true" signature="5785:5819" ph="select count... tb_cms_swiper" />
+            <marker date="1543468533176" expanded="true" signature="6801:7105" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="7317:7834" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="7935:8200" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="11510:11619" ph="select from tb_cms_swiper" />
+            <marker date="1543468533176" expanded="true" signature="11705:11768" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="11873:11898" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="12160:12183" ph="SELECT LAST_... " />
+            <marker date="1543468533176" expanded="true" signature="12205:12419" ph="insert into tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="12598:12621" ph="SELECT LAST_... " />
+            <marker date="1543468533176" expanded="true" signature="13528:13562" ph="select count... tb_cms_swiper" />
+            <marker date="1543468533176" expanded="true" signature="14437:14690" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="14902:15326" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="15427:15648" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="18958:19067" ph="select from tb_cms_swiper" />
+            <marker date="1543468533176" expanded="true" signature="19153:19216" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="19321:19346" ph="delete from tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="19608:19631" ph="SELECT LAST_... " />
+            <marker date="1543468533176" expanded="true" signature="19653:19867" ph="insert into tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="20046:20069" ph="SELECT LAST_... " />
+            <marker date="1543468533176" expanded="true" signature="20976:21010" ph="select count... tb_cms_swiper" />
+            <marker date="1543468533176" expanded="true" signature="21885:22138" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="22350:22774" ph="update tb_cms_swiper... " />
+            <marker date="1543468533176" expanded="true" signature="22875:23096" ph="update tb_cms_swiper... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/SwiperEntityExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/mapper/SwiperEntityMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/entity/SwiperEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/service/SwiperServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+          <folding>
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1608#1609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/controller/SwiperController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/BasisApplication.java">
+    <entry file="file://$PROJECT_DIR$/server-cms/src/main/java/com/njwt/cms/server/ServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="299">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-basis/src/main/java/com/njwt/basis/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
           </folding>
         </state>
       </provider>

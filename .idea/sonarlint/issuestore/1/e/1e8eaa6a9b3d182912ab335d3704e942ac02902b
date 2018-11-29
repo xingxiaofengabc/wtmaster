@@ -1,0 +1,15 @@
+
+Qsquid:S1172"0Remove this unused method parameter "authtoken".(¯³÷ğşÿÿÿÿ8“ùú¥õ,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ùú¥õ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“ùú¥õ,
+~squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "dbUserList".(¥€Ì8“ùú¥õ,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÂ>8“ùú¥õ,
+Psquid:S1172"/Remove this unused method parameter "password".(¹´çÚüÿÿÿÿ8“ùú¥õ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½„â'8“ùú¥õ,
+tsquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8“ùú¥õ,
+osquid:UselessImportCheck"ARemove this unused import 'com.njwt.cms.api.service.UserService'.(ÉÖÉúÿÿÿÿ8“ùú¥õ,
+Usquid:S3400"9Remove this method and declare a constant for this value.(ê…Î‹8“ùú¥õ,
+gsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(²Íì„şÿÿÿÿ8“ùú¥õ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒà°8“ùú¥õ,

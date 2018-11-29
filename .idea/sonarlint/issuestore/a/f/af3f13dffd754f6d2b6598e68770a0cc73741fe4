@@ -1,0 +1,10 @@
+
+rsquid:UselessImportCheck"IRemove this unused import 'org.springframework.context.EnvironmentAware'.(ãø–®8òĞšÕó,
+‰squid:UselessImportCheck"[Remove this unused import 'org.springframework.web.servlet.config.annotation.EnableWebMvc'.(Â°Ä¡úÿÿÿÿ8òĞšÕó,
+asquid:CallToDeprecatedMethod"/Remove this use of "contact"; it is deprecated.(¿¾ÀŞÿÿÿÿÿ8ƒª½Õó,
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8ş¼Õó,
+squid:UselessImportCheck"fRemove this unused import 'org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry'.(ùçšï8òĞšÕó,
+€squid:UselessImportCheck"RRemove this unused import 'org.springframework.boot.bind.RelaxedPropertyResolver'.(ª¦É¹ÿÿÿÿÿ8òĞšÕó,
+squid:UselessImportCheck"_Remove this unused import 'org.springframework.web.servlet.config.annotation.WebMvcConfigurer'.(’µ¥Êÿÿÿÿÿ8òĞšÕó,
+squid:UselessImportCheck"fRemove this unused import 'org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter'.(Ùõ’ß8òĞšÕó,
+gsquid:UselessImportCheck">Remove this unused import 'com.google.common.base.Predicates'.(Ìùğ‚8ƒª½Õó,

@@ -1,0 +1,19 @@
+
+@squid:S1481"&Remove this unused "i" local variable.(ƒÿ˜Ÿþÿÿÿÿ
+Osquid:S1854"5Remove this useless assignment to local variable "i".(ƒÿ˜Ÿþÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+]squid:S3518"CMake sure this expression can't be zero before doing this division.(ƒÿ˜Ÿþÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¢„Ç
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¢„Ç
+Bsquid:S2201"(The return value of "trim" must be used.(€˜Žºúÿÿÿÿ
+Msquid:S1854"8Remove this useless assignment to local variable "list".(ÁïçÛ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡ìÇù
+Ysquid:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(€˜Žºúÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "id : " 3 times.(Ã¢„Ç
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(æøŒÐ
+hsquid:S1192"NDefine a constant instead of duplicating this literal "indexUrlIndex" 4 times.(ÎÄÌÿÿÿÿÿ
+`squid:S1192"KDefine a constant instead of duplicating this literal " ; name : " 3 times.(Ã¢„Ç
