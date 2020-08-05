@@ -20,6 +20,11 @@ public class ProducerController {
         return "";
     }
 
+    /**
+     *
+     * @return
+     */
+
     @RequestMapping(value = "/hello", method = {RequestMethod.GET})
     @ResponseBody
     public String hello() {
